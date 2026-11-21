@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1773415700 source:c:\users\usuario001\desktop\uni\edii\practica1\main.cpp
+	<iostream>
+	"MultiConjunto.h"
+
+1773421381 source:c:\users\usuario001\desktop\uni\edii\practica1\src\multiconjunto.cpp
+	"MultiConjunto.h"
+	"Persona.h"
+
+1773311620 c:\users\usuario001\desktop\uni\edii\practica1\include\multiconjunto.h
+
+1773745325 c:\users\usuario001\desktop\uni\edii\practica1\include\persona.h
+	<string>
+
+1773745325 source:c:\users\usuario001\desktop\uni\edii\practica1\src\persona.cpp
+	"Persona.h"
+
